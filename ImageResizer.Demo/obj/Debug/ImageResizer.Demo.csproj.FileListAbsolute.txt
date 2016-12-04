@@ -1,0 +1,8 @@
+c:\users\dev-pc\documents\visual studio 2015\Projects\ImageResizer.Demo\ImageResizer.Demo\bin\Debug\ImageResizer.Demo.exe.config
+c:\users\dev-pc\documents\visual studio 2015\Projects\ImageResizer.Demo\ImageResizer.Demo\bin\Debug\ImageResizer.Demo.exe
+c:\users\dev-pc\documents\visual studio 2015\Projects\ImageResizer.Demo\ImageResizer.Demo\bin\Debug\ImageResizer.Demo.pdb
+c:\users\dev-pc\documents\visual studio 2015\Projects\ImageResizer.Demo\ImageResizer.Demo\obj\Debug\ImageResizer.Demo.Form1.resources
+c:\users\dev-pc\documents\visual studio 2015\Projects\ImageResizer.Demo\ImageResizer.Demo\obj\Debug\ImageResizer.Demo.Properties.Resources.resources
+c:\users\dev-pc\documents\visual studio 2015\Projects\ImageResizer.Demo\ImageResizer.Demo\obj\Debug\ImageResizer.Demo.csproj.GenerateResource.Cache
+c:\users\dev-pc\documents\visual studio 2015\Projects\ImageResizer.Demo\ImageResizer.Demo\obj\Debug\ImageResizer.Demo.exe
+c:\users\dev-pc\documents\visual studio 2015\Projects\ImageResizer.Demo\ImageResizer.Demo\obj\Debug\ImageResizer.Demo.pdb
